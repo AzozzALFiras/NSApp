@@ -1,0 +1,9 @@
+Package: co.azozzalfiras.nsapp
+Name: NSApp
+Depends: mobilesubstrate
+Version: 1.q
+Architecture: iphoneos-arm
+Description: for developer's
+Maintainer: Azozz ALFiras
+Author: Azozz ALFiras
+Section: Tweaks
